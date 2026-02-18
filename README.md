@@ -1,6 +1,5 @@
 # Patient-Health-Record-Management-System
-Patient Health Record Management System
-Patient Health Record Management System
+
 =========================================
 
 "A simple and smart way to manage patient health data digitally."
